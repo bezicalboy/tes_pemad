@@ -1,1 +1,4 @@
+Composer Install
+edit env sesuai informasi database
+
 Jalankan php artisan migrate laku jalankan php artisan db:seed
